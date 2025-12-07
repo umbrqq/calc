@@ -9,7 +9,7 @@ A lightweight desktop calculator application built with Python's standard GUI li
 * **Error Handling:** Includes protection against division by zero.
 * **User Interface:** Clean fixed-size window with large, easy-to-read buttons.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **Python 3.x**
 * **Tkinter** (Standard Python GUI library)
